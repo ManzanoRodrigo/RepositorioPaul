@@ -10,5 +10,6 @@ package pruebaadministrador;
  * @author Esparqui
  */
 public class Clase001 {
+    //klsdhjkfhdsjfhjskdhfjksd
     
 }
