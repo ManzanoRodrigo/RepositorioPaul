@@ -12,5 +12,6 @@ package pruebaadministrador;
 public class RamosPaul {
     //hola1
     //hola2
-    
+    public void prueba(){
+    }
 }
